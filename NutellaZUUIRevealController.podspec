@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
                    A Facebook inspired custom iOS ViewControllerContainer that enables to have a UIViewController on top of another. The rear view can be revealed either by slowly panning the finger across the front view's NavigationBar, by quickly flicking it left or right or simply by tapping the 'Reveal' button.
                    DESC
 
-  s.homepage     = "https://github.com/hadibadjian/ZUUIRevealController"
+  s.homepage     = "https://github.com/abesselink-outware/NutellaZUUIRevealController"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -38,11 +38,11 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
   
-  s.author             = { "Hadi Badjian" => "hadi.badjian at outware.com.au" }
+  s.author             = { "Andrew Besselink" => "andrew.besselink at outware.com.au" }
 
   s.platform     = :ios, "5.0"
   
-  s.source       = { :git => "https://github.com/hadibadjian/ZUUIRevealController.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/abesselink-outware/NutellaZUUIRevealController", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
