@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "ZUUIRevealController"
+  s.name         = "NutellaZUUIRevealController"
   s.version      = "0.0.1"
   s.summary      = "A Facebook inspired custom iOS ViewControllerContainer that enables to have a UIViewController on top of another."
 
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
                    A Facebook inspired custom iOS ViewControllerContainer that enables to have a UIViewController on top of another. The rear view can be revealed either by slowly panning the finger across the front view's NavigationBar, by quickly flicking it left or right or simply by tapping the 'Reveal' button.
                    DESC
 
-  s.homepage     = "https://github.com/abesselink-outware/NutellaZUUIRevealController"
+  s.homepage     = "https://github.com/outware-mobile/NutellaZUUIRevealController"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -42,7 +42,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "5.0"
   
-  s.source       = { :git => "https://github.com/abesselink-outware/NutellaZUUIRevealController", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/outware-mobile/NutellaZUUIRevealController", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
